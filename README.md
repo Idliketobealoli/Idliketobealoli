@@ -5,7 +5,7 @@
 <img align="right" src="https://i.imgur.com/uNdDoPT.gif"/>
 
 ### 🔷 *About me:*
-- I like logic riddles and learning new things and skills.
+- I like logic riddles and learning new skills.
 - Playing videogames, drawing and watching anime are three things that I enjoy quite a lot.
 - I'm interested in **machine learning**, **videogame development** and **cybersecurity**.
 - I currently prefer backend over frontend. 
