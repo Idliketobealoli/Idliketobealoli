@@ -9,7 +9,7 @@
 - Playing videogames, drawing and watching anime are three things that I enjoy quite a lot.
 - I'm interested in **machine learning**, **videogame development** and **cybersecurity**.
 - I currently prefer backend over frontend. 
-- I'm currently studying **Crossplatform App Development** at *IES Luis Vives, Leganés*.
+- I'm currently studying **Multiplatform App Development** at *IES Luis Vives, Leganés*.
 - People usually call me either *Dani* or *Loli*.
 - Professional coffee drinker (the sweeter, the better)
 - Favourite videogame franchises: *Kingdom Hearts* and *Ratchet & Clank*.
