@@ -13,8 +13,8 @@
 - I'm currently studying **Multiplatform App Development** at *IES Luis Vives, Leganés*.
 - I wish I someday will be able to create a companion AI.
 - Defeat is not a bad thing if you learn from it.
-- People usually call me either *Dani* or *Loli*.
-- Professional coffee drinker (the sweeter, the better)
+- People usually call me either <br/>*Dani* or *Loli*.
+- Professional coffee drinker <br/>(the sweeter, the better)
 - Cat lover.
 
 ---
