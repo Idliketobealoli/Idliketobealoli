@@ -19,6 +19,8 @@
 
 ---
 
+<img align="left" src="https://animedb.es/styles/img/loginpart1.webp" height=150/>
+
 ### 🔷 *My social media:*
 - *Twitter: [@magdami10](https://twitter.com/magdami10)*
 - *Instagram: [@magdami_sama](https://www.instagram.com/magdami_sama/?hl=es)*
