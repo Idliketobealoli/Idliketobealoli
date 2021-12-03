@@ -15,7 +15,7 @@
 - Defeat is not a bad thing if you learn from it.
 - People usually call me either <br/>*Dani* or *Loli*.
 - Professional coffee drinker <br/>(the sweeter, the better)
-- Cat lover.
+- [Cat](https://github.com/enekor) lover.
 
 ---
 
