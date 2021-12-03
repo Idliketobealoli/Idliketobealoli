@@ -14,7 +14,7 @@
 - I wish I someday will be able to create a companion AI.
 - Defeat is not a bad thing if you learn from it.
 - People usually call me either *Dani* or *Loli*.
-- Professional coffee drinker (the sweeter, the better) <img src="https://monophy.com/media/kUGK2fwgL5kTXmzvlC/monophy.gif" height=30>
+- Professional coffee drinker (the sweeter, the better)
 - Cat lover.
 
 ---
