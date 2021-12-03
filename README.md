@@ -1,4 +1,4 @@
-<h3 align="center">🔹🔷 <b><i>Hi there, I'm Dani</b></i> 🔷🔹</h3>
+<h3 align="center">🔹🔷 <b><i>Hi there, I'm Dani</i></b> 🔷🔹</h3>
 
 ---
 
@@ -8,26 +8,26 @@
 - I like logic riddles and learning new skills.
 - Playing videogames, drawing and watching anime are three things that I enjoy quite a lot.
 - I'm interested in **machine learning**, **videogame development** and **cybersecurity**.
+- Favourite videogame franchises: *[Kingdom Hearts](https://en.wikipedia.org/wiki/Kingdom_Hearts)* and *[Ratchet & Clank](https://en.wikipedia.org/wiki/Ratchet_%26_Clank)*.
 - I currently prefer backend over frontend. 
 - I'm currently studying **Multiplatform App Development** at *IES Luis Vives, Leganés*.
-- People usually call me either *Dani* or *Loli*.
-- Professional coffee drinker (the sweeter, the better)
-- Favourite videogame franchises: *Kingdom Hearts* and *Ratchet & Clank*.
 - I wish I someday will be able to create a companion AI.
 - Defeat is not a bad thing if you learn from it.
+- People usually call me either *Dani* or *Loli*.
+- Professional coffee drinker (the sweeter, the better) <img src="https://monophy.com/media/kUGK2fwgL5kTXmzvlC/monophy.gif" height=30>
 - Cat lover.
 
 ---
 
 ### 🔷 *My social media:*
-- *Twitter: @magdami10*
-- *Instagram: @magdami_sama*
+- *Twitter: [@magdami10](https://twitter.com/magdami10)*
+- *Instagram: [@magdami_sama](https://www.instagram.com/magdami_sama/?hl=es)*
 - *Discord: Loli#6496*
 - *gmail: daniel.ro.mu02@gmail.com*
 
 ---
 
-<h3 align="center"> 🔹🔷 <b><i>Technologies I've worked with:</b></i> 🔷🔹 </h3>
+<h3 align="center"> 🔹🔷 <b><i>Technologies I've worked with:</i></b> 🔷🔹 </h3>
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/768px-Kotlin_Icon.png" height=45/>
   <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" height=45/>
