@@ -19,7 +19,9 @@
 
 ---
 
-<img align="left" src="https://animedb.es/styles/img/loginpart1.webp" height=150/>
+<!-- <img align="left" src="https://animedb.es/styles/img/loginpart1.webp" height=150/> -->
+<img align="left" src="https://user-images.githubusercontent.com/80858419/148649772-37f1a783-e4f2-4dfd-b49a-39e1175f0d6c.gif" height=150/>
+<!-- ![norin_ringo_kinoshita_dance](https://user-images.githubusercontent.com/80858419/148649772-37f1a783-e4f2-4dfd-b49a-39e1175f0d6c.gif) -->
 
 ### 🔷 *My social media:*
 - *Twitter: [@magdami10](https://twitter.com/magdami10)*
