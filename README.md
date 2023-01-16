@@ -27,6 +27,7 @@
 - *Instagram: [@magdami_sama](https://www.instagram.com/magdami_sama/?hl=es)*
 - *Discord: Loli#6496*
 - *gmail: daniel.ro.mu02@gmail.com*
+- *linkedIn: I don't have one at the moment.*
 
 ---
 
