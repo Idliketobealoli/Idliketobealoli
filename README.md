@@ -7,11 +7,11 @@
 ### 🔷 *About me:*
 - I like logic riddles and learning new skills.
 - Playing videogames, drawing and watching anime are three things that I enjoy quite a lot.
-- I'm interested in **machine learning**, **videogame development** and **cybersecurity**.
+- I'm interested in **machine learning** and **videogame development**.
 - Favourite videogame franchises: *[Kingdom Hearts](https://en.wikipedia.org/wiki/Kingdom_Hearts)* and *[Ratchet & Clank](https://en.wikipedia.org/wiki/Ratchet_%26_Clank)*.
 - I currently prefer backend over frontend. 
-- I'm currently studying **Multiplatform App Development** at *IES Luis Vives, Leganés*.
-- I wish I someday will be able to create a companion AI.
+- I'm currently studying **Crossplatform App Development** at *IES Luis Vives, Leganés*.
+- I wish I will someday be able to create a companion AI.
 - Defeat is not a bad thing if you learn from it.
 - People usually call me either <br/>*Dani* or *Loli*.
 - Professional coffee drinker <br/>(the sweeter, the better)
@@ -24,7 +24,6 @@
 <!-- ![norin_ringo_kinoshita_dance](https://user-images.githubusercontent.com/80858419/148649772-37f1a783-e4f2-4dfd-b49a-39e1175f0d6c.gif) -->
 
 ### 🔷 *My social media:*
-- *Twitter: [@magdami10](https://twitter.com/magdami10)*
 - *Instagram: [@magdami_sama](https://www.instagram.com/magdami_sama/?hl=es)*
 - *Discord: Loli#6496*
 - *gmail: daniel.ro.mu02@gmail.com*
