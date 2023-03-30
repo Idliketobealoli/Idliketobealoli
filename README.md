@@ -1,4 +1,4 @@
-<h3 align="center">🔹🔷 <b><i>Hi there, I'm Dani</i></b> 🔷🔹</h3>
+<h3 align="center">🔹🔷 <b><i>Hello there, I'm Dani</i></b> 🔷🔹</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 ### 🔷 *About me:*
 - I like logic riddles and learning new skills.
 - Playing videogames, drawing and watching anime are three things that I enjoy quite a lot.
-- I'm interested in **machine learning** and **videogame development**.
+- I'm interested in **machine learning** and **AI**.
 - Favourite videogame franchises: *[Kingdom Hearts](https://en.wikipedia.org/wiki/Kingdom_Hearts)* and *[Ratchet & Clank](https://en.wikipedia.org/wiki/Ratchet_%26_Clank)*.
 - I currently prefer backend over frontend. 
 - I'm currently studying **Crossplatform App Development** at *IES Luis Vives, Leganés*.
@@ -19,9 +19,7 @@
 
 ---
 
-<!-- <img align="left" src="https://animedb.es/styles/img/loginpart1.webp" height=150/> -->
 <img align="left" src="https://user-images.githubusercontent.com/80858419/148649772-37f1a783-e4f2-4dfd-b49a-39e1175f0d6c.gif" height=150/>
-<!-- ![norin_ringo_kinoshita_dance](https://user-images.githubusercontent.com/80858419/148649772-37f1a783-e4f2-4dfd-b49a-39e1175f0d6c.gif) -->
 
 ### 🔷 *My social media:*
 - *Instagram: [@magdami_sama](https://www.instagram.com/magdami_sama/?hl=es)*
@@ -31,14 +29,9 @@
 
 ---
 
-<!-- <h3 align="center"> 🔹🔷 <b><i>My most used languages:</i></b> 🔷🔹 </h3> -->
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Idliketobealoli&theme=react">
 <img align="right" loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Idliketobealoli&theme=react&layout=compact" height="220" />
 </a>
-
-<!--
----
--->
 
 <h3 align="center"> 🔹🔷 <b><i>Technologies I've worked with:</i></b> 🔷🔹 </h3>
 <div align="center">
@@ -47,7 +40,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height=45/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height=45/>
   <img src="https://miro.medium.com/max/650/1*zzvdRmHGGXONZpuQ2FeqsQ.png" height=45/>
-  <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" height=45/>
   <img src="https://distreau.com/github.svg" height=45/>
   <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" height=45/>
   <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" height=45/>
