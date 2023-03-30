@@ -31,6 +31,15 @@
 
 ---
 
+<!-- <h3 align="center"> 🔹🔷 <b><i>My most used languages:</i></b> 🔷🔹 </h3> -->
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Idliketobealoli&theme=react">
+<img align="right" loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Idliketobealoli&theme=react&layout=compact" height="220" />
+</a>
+
+<!--
+---
+-->
+
 <h3 align="center"> 🔹🔷 <b><i>Technologies I've worked with:</i></b> 🔷🔹 </h3>
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/768px-Kotlin_Icon.png" height=45/>
