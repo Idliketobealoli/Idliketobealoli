@@ -46,3 +46,9 @@
   <img src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" height=45/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" height=45/>
 </div>
+
+---
+
+### 🔷 *People with whom I've worked:*
+- [Eneko Rebollo](https://github.com/enekor)
+- [Mario Resa](https://github.com/Mario999X)
