@@ -27,6 +27,10 @@
 - *gmail: daniel.ro.mu02@gmail.com*
 - *linkedIn: I don't have one at the moment.*
 
+<a href="https://github-readme-stats.vercel.app/api?username=Idliketobealoli&show_icons=true&theme=dark">
+<img align="right" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=Idliketobealoli&show_icons=true&theme=dark" height="220" />
+</a>
+
 ---
 
 <h3 align="center"> 🔹🔷 <b><i>Technologies I've worked with:</i></b> 🔷🔹 </h3>
@@ -56,10 +60,6 @@
 </div>
 
 ---
-
-<a href="https://github-readme-stats.vercel.app/api?username=Idliketobealoli&show_icons=true&theme=dark">
-<img align="center" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=Idliketobealoli&show_icons=true&theme=dark" height="220" />
-</a>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Idliketobealoli&theme=react">
 <img align="center" loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Idliketobealoli&theme=react&layout=compact" height="220" />
