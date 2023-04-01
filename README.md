@@ -53,6 +53,10 @@
 - [Eneko Rebollo](https://github.com/enekor)
 - [Mario Resa](https://github.com/Mario999X)
 - [Sebastián Mendoza](https://github.com/SebsMendoza)
+- [Alejandro Laso](https://github.com/alexlaso)
+- [Sergio Pérez](https://github.com/sps169)
+- [Federico Toledo](https://github.com/FedericoTB)
+- [Iván Azagra](https://github.com/IvanAzagraTroya)
 
 <a href="https://github-readme-stats.vercel.app/api?username=Idliketobealoli&show_icons=true&theme=dark">
 <img align="right" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=Idliketobealoli&show_icons=true&theme=dark" height="220" />
