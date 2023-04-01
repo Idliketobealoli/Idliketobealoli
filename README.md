@@ -58,7 +58,7 @@
 ---
 
 <a href="https://github-readme-stats.vercel.app/api?username=Idliketobealoli&show_icons=true&theme=dark">
-<img align="left" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=Idliketobealoli&show_icons=true&theme=dark" height="220" />
+<img align="center" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=Idliketobealoli&show_icons=true&theme=dark" height="220" />
 </a>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Idliketobealoli&theme=react">
