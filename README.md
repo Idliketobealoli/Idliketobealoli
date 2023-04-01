@@ -49,6 +49,10 @@
 
 ---
 
+<a href="https://github-readme-stats.vercel.app/api?username=Idliketobealoli&show_icons=true&theme=dark">
+<img align="left" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=Idliketobealoli&show_icons=true&theme=dark" height="220" />
+</a>
+
 ### 🔷 *People with whom I've worked:*
 - [Eneko Rebollo](https://github.com/enekor)
 - [Mario Resa](https://github.com/Mario999X)
@@ -58,6 +62,3 @@
 - [Federico Toledo](https://github.com/FedericoTB)
 - [Iván Azagra](https://github.com/IvanAzagraTroya)
 
-<a href="https://github-readme-stats.vercel.app/api?username=Idliketobealoli&show_icons=true&theme=dark">
-<img align="right" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=Idliketobealoli&show_icons=true&theme=dark" height="220" />
-</a>
