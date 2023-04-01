@@ -21,15 +21,15 @@
 
 <img align="left" src="https://user-images.githubusercontent.com/80858419/148649772-37f1a783-e4f2-4dfd-b49a-39e1175f0d6c.gif" height=150/>
 
+<a href="https://github-readme-stats.vercel.app/api?username=Idliketobealoli&show_icons=true&theme=dark">
+<img align="right" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=Idliketobealoli&show_icons=true&theme=dark" height="220" />
+</a>
+
 ### 🔷 *My social media:*
 - *Instagram: [@magdami_sama](https://www.instagram.com/magdami_sama/?hl=es)*
 - *Discord: Loli#6496*
 - *gmail: daniel.ro.mu02@gmail.com*
 - *linkedIn: I don't have one at the moment.*
-
-<a href="https://github-readme-stats.vercel.app/api?username=Idliketobealoli&show_icons=true&theme=dark">
-<img align="right" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=Idliketobealoli&show_icons=true&theme=dark" height="220" />
-</a>
 
 ---
 
