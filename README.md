@@ -1,9 +1,8 @@
-<img align="left" src="https://64.media.tumblr.com/2bd546bbc72da9a8ccf251922b1e05ac/tumblr_mqpoziggwt1s5jjtzo1_640.gif" height="80" width="300" />
+<img align="left" src="https://64.media.tumblr.com/2bd546bbc72da9a8ccf251922b1e05ac/tumblr_mqpoziggwt1s5jjtzo1_640.gif" height="50" width="250" />
 
-<img align="right" src="https://64.media.tumblr.com/2bd546bbc72da9a8ccf251922b1e05ac/tumblr_mqpoziggwt1s5jjtzo1_640.gif" height="80" width="300" />
+<img align="right" src="https://64.media.tumblr.com/2bd546bbc72da9a8ccf251922b1e05ac/tumblr_mqpoziggwt1s5jjtzo1_640.gif" height="50" width="250" />
 
 <h3 align="center">🔹🔷 <b><i>Hello there, I'm Dani</i></b> 🔷🔹</h3>
-<br/>
 
 ---
 
