@@ -66,7 +66,7 @@
 <div align="center">
 <img align="left" src="https://i.pinimg.com/originals/6a/92/21/6a92214a03da4c2a81650ce079c3e6b3.gif" height="140" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=idliketobealoli&theme=tokyonight-duo&hide_border=true" alt="Idliketobealoli" height="190" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=idliketobealoli&theme=tokyonight-duo&hide_border=true" alt="Idliketobealoli" height="160" />
   
 <img align="right" src="https://31.media.tumblr.com/33e8448e57bd9622fe374de750b181b2/tumblr_nsjezcuZ7H1ri5cxko1_500.gif" height="140" />
 </div>
