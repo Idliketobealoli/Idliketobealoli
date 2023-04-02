@@ -34,8 +34,6 @@
 
 *__LinkedIn__: I don't have one at the moment.*
 
-<br/>
-
 ---
 
 <h3 align="center"> 🔹🔷 <b><i>Technologies I've worked with:</i></b> 🔷🔹 </h3>
