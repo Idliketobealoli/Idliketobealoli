@@ -19,10 +19,10 @@
 
 ---
 
-<img align="left" src="https://user-images.githubusercontent.com/80858419/148649772-37f1a783-e4f2-4dfd-b49a-39e1175f0d6c.gif" height=150/>
+<img align="left" src="https://user-images.githubusercontent.com/80858419/148649772-37f1a783-e4f2-4dfd-b49a-39e1175f0d6c.gif" height=200/>
 
-<a href="https://github-readme-stats.vercel.app/api?username=Idliketobealoli&show_icons=true&theme=dark">
-<img align="right" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=Idliketobealoli&show_icons=true&theme=dark" height="150" />
+<a href="https://github-readme-stats.vercel.app/api?username=idliketobealoli&theme=tokyonight&show_icons=true&bg_color=00000000&border_color=00000000">
+<img align="right" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=idliketobealoli&theme=tokyonight&show_icons=true&bg_color=00000000&border_color=00000000" height="200" />
 </a>
 
 ### 🔷 *My social media:*
@@ -30,6 +30,9 @@
 - *Discord: Loli#6496*
 - *gmail: daniel.ro.mu02@gmail.com*
 - *linkedIn: I don't have one at the moment.*
+
+<br/>
+<br/>
 
 ---
 
@@ -61,9 +64,15 @@
 
 ---
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Idliketobealoli&theme=react">
-<img align="right" loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Idliketobealoli&theme=react&layout=compact" height="220" />
+<div align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=idliketobealoli&theme=tokyonight-duo&hide_border=true" alt="Idliketobealoli" height="200" />
+  
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Idliketobealoli&theme=tokyonight&layout=compact&langs_count=6&bg_color=00000000&border_color=00000000">
+<img align="right" loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Idliketobealoli&theme=tokyonight&layout=compact&langs_count=6&bg_color=00000000&border_color=00000000" height="200" />
 </a>
+</div>
+
+---
 
 ### 🔷 *People with whom I've worked:*
 - [Eneko Rebollo](https://github.com/enekor)
