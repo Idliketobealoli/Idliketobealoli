@@ -19,10 +19,10 @@
 
 ---
 
-<img align="left" src="https://user-images.githubusercontent.com/80858419/148649772-37f1a783-e4f2-4dfd-b49a-39e1175f0d6c.gif" height=190/>
+<img align="left" src="https://user-images.githubusercontent.com/80858419/148649772-37f1a783-e4f2-4dfd-b49a-39e1175f0d6c.gif" height=140/>
 
 <a href="https://github-readme-stats.vercel.app/api?username=idliketobealoli&theme=tokyonight&show_icons=true&bg_color=00000000&border_color=00000000">
-<img align="right" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=idliketobealoli&theme=tokyonight&show_icons=true&bg_color=00000000&border_color=00000000" height="190" />
+<img align="right" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=idliketobealoli&theme=tokyonight&show_icons=true&bg_color=00000000&border_color=00000000" height="140" />
 </a>
 
 ### 🔷 *My social media:*
