@@ -1,4 +1,9 @@
+<img align="left" src="https://64.media.tumblr.com/2bd546bbc72da9a8ccf251922b1e05ac/tumblr_mqpoziggwt1s5jjtzo1_640.gif" height="80" width="300" />
+
+<img align="right" src="https://64.media.tumblr.com/2bd546bbc72da9a8ccf251922b1e05ac/tumblr_mqpoziggwt1s5jjtzo1_640.gif" height="80" width="300" />
+
 <h3 align="center">🔹🔷 <b><i>Hello there, I'm Dani</i></b> 🔷🔹</h3>
+<br/>
 
 ---
 
@@ -66,7 +71,7 @@
 <div align="center">
 <img align="left" src="https://i.pinimg.com/originals/6a/92/21/6a92214a03da4c2a81650ce079c3e6b3.gif" height="140" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=idliketobealoli&theme=tokyonight-duo&hide_border=true" alt="Idliketobealoli" height="160" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=idliketobealoli&theme=tokyonight-duo&hide_border=true" alt="Idliketobealoli" height="180" />
   
 <img align="right" src="https://31.media.tumblr.com/33e8448e57bd9622fe374de750b181b2/tumblr_nsjezcuZ7H1ri5cxko1_500.gif" height="140" />
 </div>
