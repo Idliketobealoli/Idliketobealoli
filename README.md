@@ -26,10 +26,13 @@
 </a>
 
 ### 🔷 *My social media:*
-- *Instagram: [@magdami_sama](https://www.instagram.com/magdami_sama/?hl=es)*
-- *Discord: Loli#6496*
-- *gmail: daniel.ro.mu02@gmail.com*
-- *linkedIn: I don't have one at the moment.*
+*__Instagram__: [@magdami_sama](https://www.instagram.com/magdami_sama/?hl=es)*
+
+*__Discord__: Loli#6496*
+
+*__Gmail__: daniel.ro.mu02@gmail.com*
+
+*__LinkedIn__: I don't have one at the moment.*
 
 <br/>
 
