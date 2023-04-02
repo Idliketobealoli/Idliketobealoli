@@ -32,7 +32,6 @@
 - *linkedIn: I don't have one at the moment.*
 
 <br/>
-<br/>
 
 ---
 
@@ -66,13 +65,13 @@
 
 <div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=idliketobealoli&theme=tokyonight-duo&hide_border=true" alt="Idliketobealoli" height="200" />
-  
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Idliketobealoli&theme=tokyonight&layout=compact&langs_count=6&bg_color=00000000&border_color=00000000">
-<img align="right" loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Idliketobealoli&theme=tokyonight&layout=compact&langs_count=6&bg_color=00000000&border_color=00000000" height="200" />
-</a>
 </div>
 
 ---
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Idliketobealoli&theme=tokyonight&layout=compact&langs_count=6&bg_color=00000000&border_color=00000000">
+<img align="right" loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Idliketobealoli&theme=tokyonight&layout=compact&langs_count=6&bg_color=00000000&border_color=00000000" height="200" />
+</a>
 
 ### 🔷 *People with whom I've worked:*
 - [Eneko Rebollo](https://github.com/enekor)
