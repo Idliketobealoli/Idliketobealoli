@@ -44,9 +44,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" height=45/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height=45/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height=45/>
-  </div>
-  
-  <div align="center">
     <img src="https://miro.medium.com/max/650/1*zzvdRmHGGXONZpuQ2FeqsQ.png" height=45/>
     <img src="https://distreau.com/github.svg" height=45/>
     <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height=45/>
@@ -60,9 +57,6 @@
     <img src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" height=45/>
     <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" height=45/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" height=45/>
-  </div>
-  
-  <div align="center">
     <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" height=45/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" height=45/>
     <img src="https://avatars.githubusercontent.com/u/11459762?s=280&v=4" height=45/>
