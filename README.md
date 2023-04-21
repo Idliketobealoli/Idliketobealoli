@@ -38,28 +38,42 @@
 
 <h3 align="center"> 🔹🔷 <b><i>Technologies I've worked with:</i></b> 🔷🔹 </h3>
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/768px-Kotlin_Icon.png" height=45/>
-  <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" height=45/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" height=45/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height=45/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height=45/>
-  <img src="https://miro.medium.com/max/650/1*zzvdRmHGGXONZpuQ2FeqsQ.png" height=45/>
-  <img src="https://distreau.com/github.svg" height=45/>
-  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height=45/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/2048px-Diagrams.net_Logo.svg.png" height=45/>
-  <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" height=45/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" height=45/>
-  <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" height=45/>
-  <img src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" height=45/>
-  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" height=45/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" height=45/>
-  <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" height=45/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" height=45/>
-  <img src="https://avatars.githubusercontent.com/u/11459762?s=280&v=4" height=45/>
-  <img src="https://stacksecrets.com/wp-content/uploads/2019/03/flutter-logo.png" height=45/>
-  <img src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" height=45/>
-  <img src="https://seeklogo.com/images/K/ktor-icon-logo-C562808633-seeklogo.com.png" height=45/>
-  <img src="https://plugins.jetbrains.com/files/18147/231026/icon/pluginIcon.svg" height=45/>
+  <div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/768px-Kotlin_Icon.png" height=45/>
+    <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" height=45/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" height=45/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height=45/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height=45/>
+  </div>
+  
+  <div align="center">
+    <img src="https://miro.medium.com/max/650/1*zzvdRmHGGXONZpuQ2FeqsQ.png" height=45/>
+    <img src="https://distreau.com/github.svg" height=45/>
+    <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height=45/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/2048px-Diagrams.net_Logo.svg.png" height=45/>
+    <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" height=45/>
+  </div>
+  
+  <div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" height=45/>
+    <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" height=45/>
+    <img src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" height=45/>
+    <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" height=45/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" height=45/>
+  </div>
+  
+  <div align="center">
+    <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" height=45/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" height=45/>
+    <img src="https://avatars.githubusercontent.com/u/11459762?s=280&v=4" height=45/>
+    <img src="https://stacksecrets.com/wp-content/uploads/2019/03/flutter-logo.png" height=45/>
+    <img src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" height=45/>
+  </div>
+  
+  <div align="center">
+    <img src="https://seeklogo.com/images/K/ktor-icon-logo-C562808633-seeklogo.com.png" height=45/>
+    <img src="https://plugins.jetbrains.com/files/18147/231026/icon/pluginIcon.svg" height=45/>
+  </div>
 </div>
 
 ---
