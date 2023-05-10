@@ -2,6 +2,12 @@
 
 ---
 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=idliketobealoli&label=Profile%20views&color=42b983&style=flat" />
+  <img src="https://img.shields.io/github/followers/idliketobealoli?style=social" />
+  <img src="https://img.shields.io/github/stars/idliketobealoli?style=social" />
+</p>
+
 <img align="right" src="https://i.imgur.com/uNdDoPT.gif"/>
 
 ### 🔷 *About me:*
