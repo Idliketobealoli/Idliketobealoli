@@ -5,7 +5,8 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=idliketobealoli&label=Profile%20views&color=b489e5&style=flat" />
   <img src="https://img.shields.io/github/followers/idliketobealoli?color=b489e5&style=flat" />
-  <img src="https://img.shields.io/github/stars/idliketobealoli?color=b489e5&style=flat" />
+  <img src="https://img.shields.io/github/stars/idliketobealoli?color=b489e5&style=flat" /> <br />
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/magdami10?color=b489e5&style=plastic">
 </p>
 
 <img align="right" src="https://i.imgur.com/uNdDoPT.gif"/>
