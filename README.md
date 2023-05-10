@@ -3,9 +3,9 @@
 ---
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=idliketobealoli&label=Profile%20views&color=42b983&style=flat" />
-  <img src="https://img.shields.io/github/followers/idliketobealoli?style=social" />
-  <img src="https://img.shields.io/github/stars/idliketobealoli?style=social" />
+  <img src="https://komarev.com/ghpvc/?username=idliketobealoli&label=Profile%20views&color=b489e5&style=flat" />
+  <img src="https://img.shields.io/github/followers/idliketobealoli?color=b489e5&style=flat" />
+  <img src="https://img.shields.io/github/stars/idliketobealoli?color=b489e5&style=flat" />
 </p>
 
 <img align="right" src="https://i.imgur.com/uNdDoPT.gif"/>
