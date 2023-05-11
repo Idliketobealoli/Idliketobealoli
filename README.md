@@ -42,6 +42,8 @@
 
 *__LinkedIn__: I don't have one at the moment.*
 
+> Do we want to be safe, or free? The choice is ours! - Irelia
+
 ---
 
 <h3 align="center"> 🔹🔷 <b><i>Technologies I've worked with:</i></b> 🔷🔹 </h3>
@@ -87,10 +89,6 @@
   
 <img align="right" src="https://31.media.tumblr.com/33e8448e57bd9622fe374de750b181b2/tumblr_nsjezcuZ7H1ri5cxko1_500.gif" height="140" />
 </div>
-
-
-
-> Do we want to be safe, or free? The choice is ours! - Irelia
 
 ---
 
