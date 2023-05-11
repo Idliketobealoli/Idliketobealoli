@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/github/stars/idliketobealoli?color=b489e5&style=flat&labelColor=5c5c5c" /> <br />
   <a href="https://www.twitter.com/magdami10" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/twitter/follow/magdami10?style=flat&color=b489e5&labelColor=5c5c5c"/></a>
-<!-- 22c55e&labelColor=0f172a -->
 </p>
 
 <img align="right" src="https://i.imgur.com/uNdDoPT.gif"/>
@@ -39,7 +38,7 @@
 
 *__Discord__: Loli#6496*
 
-*__Gmail__: daniel.ro.mu02@gmail.com*
+*__Gmail__: [daniel.ro.mu02@gmail.com](mailto:daniel.ro.mu02@gmail.com)*
 
 *__LinkedIn__: I don't have one at the moment.*
 
@@ -88,6 +87,10 @@
   
 <img align="right" src="https://31.media.tumblr.com/33e8448e57bd9622fe374de750b181b2/tumblr_nsjezcuZ7H1ri5cxko1_500.gif" height="140" />
 </div>
+
+
+
+> Do we want to be safe, or free? The choice is ours! - Irelia
 
 ---
 
