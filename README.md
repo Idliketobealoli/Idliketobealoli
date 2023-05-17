@@ -21,7 +21,7 @@
 - I currently prefer backend over frontend. 
 - I'm currently studying **Crossplatform App Development** at *IES Luis Vives, Leganés*.
 - I wish I will someday be able to create a companion AI.
-- Defeat is not a bad thing if you learn from it.
+- Defeat is not a bad thing, <br/>if you learn from it.
 - People usually call me either <br/>*Dani* or *Loli*.
 - Professional coffee drinker <br/>(the sweeter, the better)
 - [Cat](https://github.com/enekor) lover.
