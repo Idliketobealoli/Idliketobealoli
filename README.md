@@ -43,7 +43,7 @@
 
 *__LinkedIn__: I don't have one at the moment.*
 
-> "Do we want to be safe, or free? The choice is ours!" - Irelia
+> *"Do we want to be safe, or free? The choice is ours!" - Irelia*
 
 ---
 
