@@ -17,6 +17,7 @@
 - Playing videogames, drawing and watching anime are three things that I enjoy quite a lot.
 - I'm interested in **machine learning** and **AI**.
 - Favourite videogame franchises: *[Kingdom Hearts](https://en.wikipedia.org/wiki/Kingdom_Hearts)* and *[Ratchet & Clank](https://en.wikipedia.org/wiki/Ratchet_%26_Clank)*.
+- Favourite film/videogame universe: *[Star Wars](https://es.wikipedia.org/wiki/Star_Wars)* (not the sequels).
 - I currently prefer backend over frontend. 
 - I'm currently studying **Crossplatform App Development** at *IES Luis Vives, Leganés*.
 - I wish I will someday be able to create a companion AI.
@@ -77,6 +78,7 @@
   <div align="center">
     <img src="https://seeklogo.com/images/K/ktor-icon-logo-C562808633-seeklogo.com.png" height=45/>
     <img src="https://plugins.jetbrains.com/files/18147/231026/icon/pluginIcon.svg" height=45/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" height=45/>
   </div>
 </div>
 
