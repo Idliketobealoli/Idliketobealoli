@@ -3,11 +3,11 @@
 ---
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=idliketobealoli&label=Profile%20views&color=b489e5&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/idliketobealoli?color=b489e5&style=for-the-badge&labelColor=5c5c5c" />
-  <img src="https://img.shields.io/github/stars/idliketobealoli?color=b489e5&style=for-the-badge&labelColor=5c5c5c" /> <br />
+  <img src="https://komarev.com/ghpvc/?username=idliketobealoli&label=Profile%20views&color=3f48cc&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/idliketobealoli?color=3f48cc&style=for-the-badge&labelColor=5c5c5c" />
+  <img src="https://img.shields.io/github/stars/idliketobealoli?color=3f48cc&style=for-the-badge&labelColor=5c5c5c" /> <br />
   <a href="https://www.twitter.com/magdami10" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/twitter/follow/magdami10?style=for-the-badge&color=b489e5&labelColor=5c5c5c"/></a>
+  <img src="https://img.shields.io/twitter/follow/magdami10?style=for-the-badge&color=3f48cc&labelColor=5c5c5c"/></a>
 </p>
 
 <img align="right" src="https://i.imgur.com/uNdDoPT.gif"/>
