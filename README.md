@@ -14,17 +14,23 @@
 
 ### 🔷 *About me:*
 - I like logic riddles and learning new skills.
-- Playing videogames, drawing and watching anime are three things that I enjoy quite a lot.
+- Playing videogames, going for a walk and watching anime are three things that I enjoy quite a lot.
 - I'm interested in **machine learning** and **AI**.
 - Favourite videogame franchises: *[Kingdom Hearts](https://en.wikipedia.org/wiki/Kingdom_Hearts)* and *[Ratchet & Clank](https://en.wikipedia.org/wiki/Ratchet_%26_Clank)*.
 - Favourite film/videogame universe: *[Star Wars](https://es.wikipedia.org/wiki/Star_Wars)* (not the sequels).
-- I currently prefer backend over frontend. 
-- I'm currently studying **Crossplatform App Development** at *IES Luis Vives, Leganés*.
+- I currently prefer backend over frontend.
 - I wish I will someday be able to create a companion AI.
 - Defeat is not a bad thing, <br/>if you learn from it.
 - People usually call me either <br/>*Dani* or *Loli*.
 - Professional coffee drinker <br/>(the sweeter, the better)
 - [Cat](https://github.com/enekor) lover.
+
+---
+
+### 🔷 *My studies:*
+- Certified **Kotlin Backend Developer** by *JetBrains*.
+- I graduated in **Crossplatform App Development** at *IES Luis Vives, Leganés*.
+- I'm currently studying **Web App Development** at *IES Laguna de Joatzel, Getafe*.
 
 ---
 
@@ -37,7 +43,7 @@
 ### 🔷 *My social media:*
 *__Instagram__: [@magdami_sama](https://www.instagram.com/magdami_sama/?hl=es)*
 
-*__Discord__: Loli#6496*
+*__Discord__: idliketobealoli*
 
 *__Gmail__: [daniel.ro.mu02@gmail.com](mailto:daniel.ro.mu02@gmail.com)*
 
