@@ -108,3 +108,4 @@
 - [Sergio Pérez](https://github.com/sps169)
 - [Federico Toledo](https://github.com/FedericoTB)
 - [Iván Azagra](https://github.com/IvanAzagraTroya)
+- [Marina Pintado](https://github.com/Darkhuo10)
