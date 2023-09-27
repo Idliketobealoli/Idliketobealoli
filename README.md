@@ -45,7 +45,7 @@
 
 *__Gmail__: [daniel.ro.mu02@gmail.com](mailto:daniel.ro.mu02@gmail.com)*
 
-*__LinkedIn__: I don't have one at the moment.*
+*__LinkedIn__: [Daniel Rodriguez Muñoz](https://www.linkedin.com/in/daniel-rodriguez-mu%C3%B1oz-519551293/)*
 
 > *"Do we want to be safe, or free? The choice is ours!" - Irelia*
 
