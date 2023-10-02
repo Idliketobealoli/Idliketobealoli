@@ -88,6 +88,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" height=45/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/2048px-Diagrams.net_Logo.svg.png" height=45/>
     <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height=45/>
+    <img src="https://www.freepnglogos.com/uploads/javascript-png/png-javascript-badge-picture-8.png" height=45/>
   </div>
 </div>
 
