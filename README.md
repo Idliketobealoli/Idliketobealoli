@@ -16,7 +16,6 @@
 - Interested in **machine learning**, **testing** and **AI**.
 - Favourite videogame franchises: *[Kingdom Hearts](https://en.wikipedia.org/wiki/Kingdom_Hearts)* and *[Ratchet & Clank](https://en.wikipedia.org/wiki/Ratchet_%26_Clank)*.
 - I currently prefer backend over frontend.
-- I wish I will someday be able to create a companion AI.
 - Defeat is not a bad thing, <br/>if you learn from it.
 - People usually call me either <br/>*Dani* or *Loli*.
 - Professional coffee drinker <br/>(the sweeter, the better).
@@ -26,7 +25,7 @@
 
 ### 🔷 *My studies:*
 - Certified **Kotlin Backend Developer** by *JetBrains*.
-- I graduated in **Crossplatform App Development** at *IES Luis Vives, Leganés*.
+- Graduated in **Crossplatform App Development** at *IES Luis Vives, Leganés*.
 - Currently studying **Web App Development** at *IES Laguna de Joatzel, Getafe*.
 
 ---
@@ -40,7 +39,7 @@
 ### 🔷 *My social media:*
 *__Instagram__: [@magdami_sama](https://www.instagram.com/magdami_sama/?hl=es)*
 
-*__Discord__: Loli*
+*__Discord__: Idliketobealoli*
 
 *__Gmail__: [daniel.ro.mu02@gmail.com](mailto:daniel.ro.mu02@gmail.com)*
 
@@ -103,10 +102,10 @@
 
 ### 🔷 *People with whom I've worked:*
 - [Eneko Rebollo](https://github.com/enekor)
-- [Mario Resa](https://github.com/Mario999X)
+- [Marina Pintado](https://github.com/Darkhuo10)
+- [Iván Azagra](https://github.com/IvanAzagraTroya)
 - [Sebastián Mendoza](https://github.com/SebsMendoza)
+- [Mario Resa](https://github.com/Mario999X)
 - [Alejandro Laso](https://github.com/alexlaso)
 - [Sergio Pérez](https://github.com/sps169)
 - [Federico Toledo](https://github.com/FedericoTB)
-- [Iván Azagra](https://github.com/IvanAzagraTroya)
-- [Marina Pintado](https://github.com/Darkhuo10)
